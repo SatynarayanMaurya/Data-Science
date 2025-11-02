@@ -1,0 +1,11 @@
+,player_id,player_name,batting_hand,booling_skill,country,dob
+0,1,Jorge Jones,Right-hand bat,Right-arm offbreak,Australia,25-01-1992
+1,2,James Clark,Right-hand bat,,South Africa,05-04-2006
+2,3,Brittney Jones,Right-hand bat,,Sri Lanka,18-06-1998
+3,4,Melissa Owen,Right-hand bat,Right-arm fast,West Indies,06-04-2000
+4,5,Heather Stewart,Right-hand bat,Right-arm medium,Sri Lanka,07-08-1993
+5,6,Debra Holder,Left-hand bat,Left-arm fast,England,18-12-2005
+6,7,Daniel Smith,Right-hand bat,Left-arm orthodox,Bangladesh,28-12-2006
+7,8,Mary Hensley,Right-hand bat,Left-arm orthodox,England,07-04-1991
+8,9,Amy Mathews,Right-hand bat,Left-arm medium,England,11-04-2000
+9,10,Heather Hernandez,Left-hand bat,Right-arm offbreak,New Zealand,07-08-2003
